@@ -39,6 +39,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
+        "signal": "https://github.com/amiruldev20/signal.git",
         "@adiwajshing/baileys": "npm:baileys@6.0.9",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.3",
